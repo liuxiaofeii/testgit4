@@ -1,3 +1,1 @@
-﻿hello 乱码
-hello 小红
-床前明月光
+﻿hello world
